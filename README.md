@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan Saha</h1>
 <h3 align="center">Welcome to code space. A passionate full-stack developer from India, currently living in Sweden. With more than 10 years of experience in developing cutting-edge technologies for different clients and hobby projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan007" alt="sayan007" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayan-saha-joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-saha-joy" height="30" width="40" /></a>
@@ -14,3 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan007&show_icons=true&locale=en&layout=compact" alt="sayan007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan007&show_icons=true&locale=en" alt="sayan007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan007&" alt="sayan007" /></p>
