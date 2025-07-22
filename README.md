@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Saha</h1>
-<h3 align="center">A passionate senior frontend developer from India, currently living in Sweden</h3>
+<h3 align="center">Welcome to code space. A passionate full-stack developer from India, currently living in Sweden. With more than 10 years of experience in developing cutting-edge technologies for different clients and hobby projects.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan007" alt="sayan007" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
